@@ -9,6 +9,7 @@ import java.util.TimerTask;
 
 
 public class Main {
+    //This is the class for calculations
     public static ArrayList<String> History = new ArrayList<>();
     static GUI gui;
     private static int total;

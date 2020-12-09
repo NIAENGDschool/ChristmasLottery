@@ -16,25 +16,13 @@
     <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="jgoodies-forms-1.8.0.jar">
+      <library>
         <CLASSES>
-          <root url="file://jgoodies-forms-1.8.0.jar" />
+          <root url="file://$MODULE_DIR$/../../JMF-2.1.1e/lib" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES>
-          <root url="file://jgoodies-forms-1.8.0-sources.jar" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="miglayout15-swing.jar">
-        <CLASSES>
-          <root url="file://miglayout15-swing.jar" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://miglayout-src.zip" />
-        </SOURCES>
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../JMF-2.1.1e/lib" recursive="false" />
       </library>
     </orderEntry>
   </component>
